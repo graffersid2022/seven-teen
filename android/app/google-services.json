@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700001924772",
+    "project_id": "seventeen-b2094",
+    "storage_bucket": "seventeen-b2094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700001924772:android:36ebd475bd0bfc3e9a9831",
+        "android_client_info": {
+          "package_name": "com.seventeen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700001924772-6ojic51jqec2542octjsgf396qhv7hsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtnGxraYVKxYn9Fc6vgfwGxSWVxCUcKnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700001924772-6ojic51jqec2542octjsgf396qhv7hsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
